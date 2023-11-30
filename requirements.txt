@@ -1,0 +1,11 @@
+altair
+boto3
+ccxt
+google
+gspread
+numpy
+pandas
+matplotlib
+seaborn
+streamlit
+pillow
